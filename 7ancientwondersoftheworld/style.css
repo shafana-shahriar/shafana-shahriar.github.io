@@ -1,0 +1,107 @@
+body{
+    background: linear-gradient(#FFEFBA, #FFFFFF, #abbaab);
+    margin-bottom: 500px;
+}
+
+h1{
+    font-size: 60px;
+    color: #eba0c4;
+    background-image: linear-gradient(#2d0774,#D76D77);
+}
+ 
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+}
+
+img{
+    height: 300px;
+    margin: 30px auto;
+    display: block;
+    border-radius: 5%;
+}
+
+img:hover {
+    opacity: 0.5;
+}
+/* temple of artemis */
+
+.temple{
+    color: #4834d4;
+}
+
+.TToA{
+    color: #686de0;
+}
+
+/* colossus of rhodes */
+
+.rhodes{
+    color: #0984e3;
+}
+
+.CoR{
+    color: #74b9ff;
+}
+
+.colossus{
+    height: 500px;
+}
+
+/* mausoleum of halicarnusscus */
+
+.halic{
+    color: #00cec9;
+}
+
+.MaH{
+    color: #26d1d1;
+}
+
+/* garden of babylon */
+
+.garden{
+    color: #00b894;
+}
+
+.HGoB{
+    color: #55efc4;
+}
+
+/* light-house of alexandria */
+
+.house{
+    color: #fdcb6e;
+}
+
+.LHoA{
+    color: #f9ca24;
+}
+
+/* statue of zeus */
+
+.zeus{
+    color: #e17055;
+}
+
+.SoZ{
+    color: #fd9f8a;
+}
+
+.statuezeus{
+    height: 500px;
+}
+
+/* pyramid of giza */
+
+.giza{
+    color: #d63031;
+}
+
+.GPoG{
+    color: #ff7675;
+}
