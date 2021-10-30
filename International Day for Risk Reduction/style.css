@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Festive', cursive;
+}
+
+/* IDDRR */
+
+#IDDRR {
+    background: linear-gradient(#a8c0ff, #3f2b96);
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2.5rem;
+}
+
+#IDDRR p{
+    font-size: 27px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+#IDDRR h3 {
+    font-size: 35px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+/* REDUCING RISK DISASTER */
+
+#RDR {
+    background: linear-gradient(#a8c0ff, #3f2b96);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#RDR p{
+    color: blanchedalmond;
+    font-size: 27px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    text-align: center;
+}
+
+#RDR h4 {
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 35px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Types of natural Disasters */
+
+.nd {
+    color: blanchedalmond;
+    font-family: 'Festive', cursive; 
+    font-size: 50px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 15px;
+    background-color: #a8c0ff;
+    border-radius: 10px;
+}
+
+button a {
+    text-decoration: none;
+    color: #3f2b96;
+    font-size: 30px; 
+}
+
+button :hover{
+    background-color: #3f2b96;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none; 
+    padding: 10px 15px;
+    color: #a8c0ff;
+}
+
+p {
+    color: blanchedalmond;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+h5 {
+    color: #a8c0ff;
+    text-align: center;
+    font-size: 1rem;
+}
+
+/* MORE INFO BUTTONS */
+
+#btns h3{
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Festive', cursive;
+}
+
+.btn1, .btn2 {
+    display: block;
+    margin: 10px auto;
+    text-decoration: none; 
+    padding: 10px 15px;
+    background-color: #a8c0ff;
+    border-radius: 10px;
+}
+
+.btn1 a, .btn2 a {
+    text-decoration: none;
+    color: #3f2b96;
+    font-size: 30px;
+}
+
+.btn1 :hover, .btn2 :hover {
+    background-color: #3f2b96;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none; 
+    padding: 10px 15px;
+    color: #a8c0ff;
+}
+
+/* THANK YOU GIF */
+
+img{
+    height: 900px;
+    margin: 30px auto;
+    display: block;
+    border-radius: 5%;
+}
+
+
+
+
