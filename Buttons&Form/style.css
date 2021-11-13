@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+body { 
+    background: linear-gradient(to top, #0f0c29, #302b63, #24243e);
+}
+
+                                /* HEADING */
+
+h1 {
+    color: blanchedalmond;
+    font-family: 'Zen Kurenaido', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+                                /* LOREM */
+
+#lorem {
+    background-color: rgba(12, 12, 12, 0.562);
+    border-radius: 50px;
+    margin: 1rem;
+    padding: 2px;
+    border: 2px solid burlywood;
+}
+
+.lorem {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: blanchedalmond;
+}
+
+#lorem-p {
+    text-align: center;
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: blanchedalmond;
+    font-size: 25px;
+}
+
+
+                                /* BUTTONS */
+
+#wp, #nf, #pa, #ig, #fb, #pin {
+    text-decoration: none;
+    color: beige;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 50px;
+}
+
+.wp, .nf, .pa, .ig, .fb, .pin {
+    background-color: black;
+    display: block;
+    margin: 1rem auto;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+
+                                /* SIGN-UP */
+
+
+#form input {
+    padding: 0.5rem;
+    width: 70%;
+    height: 10%;
+    border-radius: 5px;
+}
+
+
+.btn {
+    padding: 0.5rem;
+    width: 40%;
+    border-radius: 5px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+#form {
+    width: 40%;
+    background-color: #5d5b6e;
+    margin: 7px auto;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+
+h3 {
+    font-size: 40px;
+}
