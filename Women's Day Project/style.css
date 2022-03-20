@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: #EEEEEE;
+}
+
+#header, #mtw, h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #D18CE0;
+    
+}
+
+#content-para {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    padding: 0.5rem;
+}
+
+.section1, .section2 {
+    /* border-radius: 15px; */
+    /* border: 2px solid #EEEEEE;
+    border: 2px solid #E2DEA9;
+    background-color: #eeeeee6e; */
+    /* border: 2px solid #D18CE0; */
+    /* background-color: #d08ce085; */
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 25px;
+    /* border-radius: 15px;
+    border: 2px solid #D18CE0; */
+    padding: 3px;
+}
+
+a:hover {
+    color: #D18CE0;
+    text-decoration: underline;
+}
+
+#btn:hover {
+    text-decoration: none;
+}
+
+#btn {
+    padding: 3px;
+    color: #D18CE0;
+}
+
+button {
+    padding: 5px;
+    border: 1px solid #D18CE0;
+    border-radius: 10px;
+    background-color: #d08ce085;
+}
+
+#b-cp {
+background-color: #000000;
+}
