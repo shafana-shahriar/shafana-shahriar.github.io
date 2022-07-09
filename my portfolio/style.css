@@ -1,0 +1,22 @@
+body {
+    background-color: #EFF4D7;
+}
+
+.main-header .port-item {
+    width: 30%;
+}
+
+.main-header .port-item:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+@media (min-width: 1199px) {
+    .port-item {
+        padding: 3rem !important;
+    }
+}
+
+body {
+    background-color: #dfe6e9;
+}
