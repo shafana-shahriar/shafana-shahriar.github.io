@@ -9,17 +9,12 @@
     font-size: 20px;
 }
 
-.navbar {
-    opacity: 0.5;
-}
-
 .nl {
     font-size: 24px;
 }
 
 .nav-link:hover {
     text-decoration: underline;
-    background-color: seagreen;
 }
 
 h3,
@@ -112,6 +107,9 @@ li {
 }
 a:hover {
     text-decoration: none;
+    color: black;
+    background-color: #98d4a4;
+    opacity: 0.5;
 }
 
 a {
