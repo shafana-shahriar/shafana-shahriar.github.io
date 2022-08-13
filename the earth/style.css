@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Roboto+Mono:wght@300&family=Roboto:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar {
+    opacity: 0.5;
+}
+
+.nl {
+    font-size: 24px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    background-color: seagreen;
+}
+
+h3,
+.gir {
+    color: white;
+    margin: auto;
+}
+
+#earth, #continents, #asia, #africa, #namerica, #samerica, #antartica, #australia, #europe, #oceans, #layers {
+    margin-top: 140px;
+}
+
+section {
+    margin-top: 30px;
+}
+
+#main-footer{
+    background-color: #98d4a4;
+}
+
+#e-pic {
+    border-radius: 40px;
+}
+
+ul {
+    overflow: hidden;
+}
+
+li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.pagination {
+    margin: auto;
+}
+
+/* Pagination links */
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.pagination a.active {
+    background-color: #98d4a4;
+    color: white;
+}
+
+/* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {
+    background-color: #98d4a4;
+}
+
+#FoM {
+    font-size: 20px;
+}
+
+#tit {
+    font-size: 25px;
+    background-color: #98d4a4;
+}
+
+#solsyimg {
+    border-radius: 30px;
+}
+
+.asia-img, .layimg{
+    width: 500px;
+    /* border-radius: 15px; */
+    border: black 1px solid;
+}
+
+.africaimg, .namericimg, .samericimg {
+    width: 450px;
+    /* border-radius: 20px; */
+}
+
+.antarticimg, .ausimg, .euroimg {
+    width: 500px;
+}
+
+.tit {
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+h2, h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+
+
