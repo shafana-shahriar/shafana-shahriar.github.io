@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.navbar {
+    border-bottom: #E2DCC8 5px solid;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    color: #F1F1F1;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+#head {
+    background-color: #0f3d3e;
+    /* text-align: center; */
+}
+
+.sh1a {
+    padding-top: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #F1F1F1;
+}
+
+#sh1a:hover {
+    text-decoration: none;
+    color: #F1F1F1;
+}
+
+footer {
+    background-color: #0f3d3e;
+    color: #F1F1F1;
+    font-family: 'Montserrat', sans-serif;
+    border-top: #E2DCC8 5px solid;
+}
+
+.sa01 .row .col {
+    border: #F1F1F1 3px solid;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+#india .row,
+#nepal .row .col,
+#slanka .row,
+#maldives .row .col,
+.afghan .row,
+.bengal .row,
+#bhutan .row,
+#pak .row {
+    border: #F1F1F1 4px solid;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
